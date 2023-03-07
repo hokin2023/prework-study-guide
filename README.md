@@ -31,6 +31,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ![alt text](assets/images/screenshot.png)
 ![alt text](/C:\Users\hokin\home-work-2\assets\Usage readme 1.png)
 
+![alt text](assets/Readme.png)
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
